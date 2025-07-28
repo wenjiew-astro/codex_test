@@ -2,11 +2,12 @@
 This is a test for codex of ChatGpt.
 
 ## Fireworks Demo
-A simple Python script `fireworks.py` uses the built-in `turtle` module to draw
-random fireworks on the screen. Run the script with:
+`fireworks.py` now uses `pygame` to display animated fireworks with particles.
+Install the dependency and run the script with:
 
 ```bash
+pip install pygame
 python fireworks.py
 ```
 
-Click the screen to exit.
+Close the window to exit.
